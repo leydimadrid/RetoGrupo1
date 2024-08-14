@@ -96,7 +96,7 @@ export class GraficaRadarComponent implements AfterViewInit, OnDestroy {
         indicator: [
           { name: 'C. CLIENTE', max: 4 },
           { name: 'C. NEGOCIO', max: 4 },
-          { name: 'M. DE NEGOCIO', max: 4 },
+          { name: 'M. NEGOCIO', max: 4 },
           { name: 'C. INTERNA', max: 4 },
           { name: 'S. FINANCIERA', max: 4 },
         ],
